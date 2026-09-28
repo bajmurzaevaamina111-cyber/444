@@ -1,0 +1,6 @@
+﻿Derleme şu saatte başlatıldı: 09:09...
+1>------ Derleme başladı: Proje: WinFormsApp18, Yapılandırma: Debug Any CPU ------
+1>Yapıyı hızlandırmak için çözümleyiciler atlanıyor. Çözümleyicileri çalıştırmak için 'Oluştur' veya 'Yeniden Oluştur' komutunu çalıştırabilirsiniz.
+1>WinFormsApp18 -> C:\Users\Ogrenci\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net8.0-windows\WinFormsApp18.dll
+========== Derleme: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========
+========== Derleme şu saatte tamamlandı: 09:09 ve 00,434 saniye sürdü ==========
